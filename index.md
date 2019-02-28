@@ -1,5 +1,6 @@
 ---
 title: "Cognitive Accessibility at W3C"
+parent: "/standards-guidelines/"
 permalink: /cognitive/
 ref: /cognitive/
 lang: en
