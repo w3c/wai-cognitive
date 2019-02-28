@@ -22,6 +22,7 @@ This page introduces:
 * accessibility for people with cognitive and learning disabilities ("cognitive accessibility")
 * existing standards from the World Wide Web Consortium (W3C) Web Accessibility Initiative (WAI)
 * on-going work on cognitive accessibility support at W3C WAI
+
 {::nomarkdown}
 {% include box.html type="end" %}
 {:/}
@@ -46,11 +47,11 @@ Cognitive and learning disabilities can impact how people process information. T
 
 There are many things that designers and developers can do to avoid accessibility barriers and optimize the user experience of people with cognitive and learning disabilities.
 
-More information and specific examples are covered in a section of "How People with Disabilities Use the Web: Diverse Abilities and Barriers": [Cognitive and learning](https://www.w3.org/WAI/people-use-web/abilities-barriers/#cognitive).
+More information and specific examples are in a section of "How People with Disabilities Use the Web: Diverse Abilities and Barriers": [Cognitive and learning](https://www.w3.org/WAI/people-use-web/abilities-barriers/#cognitive).
 
-## Cognitive Accessibility in WAI Standards
+## Cognitive Accessibility in W3C Standards
 
-Existing and developing standards from the Web Accessibility Initiative (WAI) address many aspects of cognitive accessibility. For example, Web Content Accessibility Guidelines ([WCAG](https://www.w3.org/WAI/standards-guidelines/wcag/)) includes requirements (called "success criteria") that improve cognitive accessibility under these and other guidelines:
+Existing and developing standards from the W3C Web Accessibility Initiative (WAI) address many aspects of cognitive accessibility. For example, Web Content Accessibility Guidelines ([WCAG](https://www.w3.org/WAI/standards-guidelines/wcag/)) includes requirements (called "success criteria") that improve cognitive accessibility under these and other guidelines:
 * [Guideline 2.2 Enough Time](https://www.w3.org/TR/WCAG21/#enough-time): Provide users enough time to read and use content.
 * [Guideline 2.4 Navigable](https://www.w3.org/TR/WCAG21/#navigable): Provide ways to help users navigate, find content, and determine where they are.
 * [Guideline 3.1 Readable](https://www.w3.org/TR/WCAG21/#readable): Make text content readable and understandable.
