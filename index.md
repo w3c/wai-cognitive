@@ -41,15 +41,16 @@ This page introduces:
 
 ## About Accessibility for People with Cognitive and Learning Disabilities
 
-Cognitive and learning disabilities impact how people process information. Technology provides opportunities for people to interact with content and to process information in ways that are more usable to them. For example, people can:
+Cognitive and learning disabilities impact how people process information. For example, it can affect people's perception, memory, language, and attention. Terminology for categories and conditions varies, and includes intellectual disabilities, developmental disabilities, attention deficit hyperactivity disorder (ADHD), autism, dementia, dyslexia, and more.
 
+Technology provides opportunities for people to interact with content and to process information in ways that are more usable to them. For example, people can:
 * navigate web content using different strategies
 * access information in text, audio, or other formats
 * change the presentation of the content according to their individual needs or preferences
 
-There are many things that designers and developers can do to avoid accessibility barriers and optimize the user experience of people with cognitive and learning disabilities.
+There are many things that designers and developers can do to avoid accessibility barriers, and to optimize the user experience of people with cognitive and learning disabilities.
 
-More information and specific examples are in a section of "How People with Disabilities Use the Web: Diverse Abilities and Barriers": [Cognitive and learning](https://www.w3.org/WAI/people-use-web/abilities-barriers/#cognitive).
+More information and specific examples of disabilities and barriers are in a section of "How People with Disabilities Use the Web: Diverse Abilities and Barriers": [Cognitive and learning](https://www.w3.org/WAI/people-use-web/abilities-barriers/#cognitive).
 
 ## Cognitive Accessibility in W3C Standards
 
