@@ -52,6 +52,7 @@ More information and specific examples are in a section of "How People with Disa
 ## Cognitive Accessibility in W3C Standards
 
 Existing and developing standards from the W3C Web Accessibility Initiative (WAI) address many aspects of cognitive accessibility. For example, Web Content Accessibility Guidelines ([WCAG](https://www.w3.org/WAI/standards-guidelines/wcag/)) includes requirements (called "success criteria") that improve cognitive accessibility under these and other guidelines:
+* [Guideline 1.3 Adaptable](https://www.w3.org/TR/WCAG21/#adaptable): Create content that can be presented in different ways (for example simpler layout) without losing information or structure.
 * [Guideline 2.2 Enough Time](https://www.w3.org/TR/WCAG21/#enough-time): Provide users enough time to read and use content.
 * [Guideline 2.4 Navigable](https://www.w3.org/TR/WCAG21/#navigable): Provide ways to help users navigate, find content, and determine where they are.
 * [Guideline 3.1 Readable](https://www.w3.org/TR/WCAG21/#readable): Make text content readable and understandable.
