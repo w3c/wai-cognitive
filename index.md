@@ -69,7 +69,7 @@ Some cognitive accessibility user needs are not addressed in existing WAI guidel
 
 Work on cognitive accessibility at W3C WAI is mostly focused in the following Task Forces under the Accessibility Guidelines Working Group ([AG WG](https://www.w3.org/WAI/GL/)) and the Accessible Platform Architectures ([APA](https://www.w3.org/WAI/APA/)) Working Group:
 * [Cognitive and Learning Disabilities Accessibility Task Force (COGA)](https://www.w3.org/WAI/PF/cognitive-a11y-tf/) &mdash; Developing resources are listed in the [wiki main page](https://www.w3.org/WAI/PF/cognitive-a11y-tf/wiki/Main_Page).
-* [Personalization Accessibility Task Force](https://www.w3.org/WAI/APA/task-forces/personalization/) &mdash; Developing resources are introduced in the [Personalization Overview]( https://deploy-preview-2--wai-personalization-standards.netlify.com/standards-guidelines/personalization/)<!-- @@update link -->.
+* [Personalization Task Force](https://www.w3.org/WAI/APA/task-forces/personalization/) &mdash; Developing resources are introduced in the [Personalization Overview]( https://deploy-preview-2--wai-personalization-standards.netlify.com/standards-guidelines/personalization/)<!-- @@update link -->.
 
 ### Get Updates, Get Involved
 
@@ -79,4 +79,4 @@ Opportunities for contributing to cognitive accessibility and other WAI work are
 
 If you would like to be more involved in the Task Force work, please send information about your interests and time availability:
 * For the Cognitive and Learning Disabilities Accessibility Task Force (COGA), e-mail the Task Force Facilitator and W3C Staff Contact: <a href="mailto:lisa.seeman@zoho.com,stevelee@w3.org?cc=wai@w3.org&subject=Cognitive%20Accessibility%20Task%20Force%20Enquiry">Lisa Seeman and Steve Lee</a>.
-* For the Personalization Accessibility Task Force, e-mail the Task Force Facilitators and W3C Staff Contact: <a href="mailto:lisa.seeman@zoho.com,charlesl@benetech.org,ran@w3.org?cc=wai@w3.org&subject=Personalization%20Task%20Force%20Enquiry">Lisa Seeman, Charles LaPierre, Ruoxi Ran</a>.
+* For the Personalization Task Force, e-mail the Task Force Facilitators and W3C Staff Contact: <a href="mailto:lisa.seeman@zoho.com,charlesl@benetech.org,ran@w3.org?cc=wai@w3.org&subject=Personalization%20Task%20Force%20Enquiry">Lisa Seeman, Charles LaPierre, Ruoxi Ran</a>.
