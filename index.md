@@ -40,7 +40,8 @@ This page introduces:
 
 ## About Accessibility for People with Cognitive and Learning Disabilities
 
-Cognitive and learning disabilities can impact how people process information. Technology provides opportunities for people to interact with content and to process information in ways that are more usable to them. For example, people can:
+Cognitive and learning disabilities impact how people process information. Technology provides opportunities for people to interact with content and to process information in ways that are more usable to them. For example, people can:
+
 * navigate web content using different strategies
 * access information in text, audio, or other formats
 * change the presentation of the content according to their individual needs or preferences
@@ -52,6 +53,7 @@ More information and specific examples are in a section of "How People with Disa
 ## Cognitive Accessibility in W3C Standards
 
 Existing and developing standards from the W3C Web Accessibility Initiative (WAI) address many aspects of cognitive accessibility. For example, Web Content Accessibility Guidelines ([WCAG](https://www.w3.org/WAI/standards-guidelines/wcag/)) includes requirements (called "success criteria") that improve cognitive accessibility under these and other guidelines:
+
 * [Guideline 1.3 Adaptable](https://www.w3.org/TR/WCAG21/#adaptable): Create content that can be presented in different ways (for example simpler layout) without losing information or structure.
 * [Guideline 2.2 Enough Time](https://www.w3.org/TR/WCAG21/#enough-time): Provide users enough time to read and use content.
 * [Guideline 2.4 Navigable](https://www.w3.org/TR/WCAG21/#navigable): Provide ways to help users navigate, find content, and determine where they are.
@@ -62,6 +64,7 @@ Existing and developing standards from the W3C Web Accessibility Initiative (WAI
 ## Additional Support for Cognitive Accessibility
 
 Some cognitive accessibility user needs are not addressed in existing WAI guidelines. WAI's work to expand guidance for cognitive accessibility includes:
+
 * developing "supplemental guidance" beyond what fits into accessibility standards now
 * developing potential additional requirements for future versions of accessibility standards
 * developing standards for personalization, which is a key aspect of cognitive accessibility
@@ -69,6 +72,7 @@ Some cognitive accessibility user needs are not addressed in existing WAI guidel
 ## Cognitive Accessibility Work at W3C
 
 Work on cognitive accessibility at W3C WAI is mostly focused in the following Task Forces under the Accessibility Guidelines Working Group ([AG WG](https://www.w3.org/WAI/GL/)) and the Accessible Platform Architectures ([APA](https://www.w3.org/WAI/APA/)) Working Group:
+
 * [Cognitive and Learning Disabilities Accessibility Task Force (COGA)](https://www.w3.org/WAI/PF/cognitive-a11y-tf/) &mdash; Developing resources are listed in the [wiki main page](https://www.w3.org/WAI/PF/cognitive-a11y-tf/wiki/Main_Page).
 * [Personalization Task Force](https://www.w3.org/WAI/APA/task-forces/personalization/) &mdash; Developing resources are introduced in the [Personalization Overview]( https://deploy-preview-2--wai-personalization-standards.netlify.com/standards-guidelines/personalization/)<!-- @@update link -->.
 
@@ -79,5 +83,6 @@ To get notices of opportunities for review and comment on WAI documents, see [Ge
 Opportunities for contributing to cognitive accessibility and other WAI work are introduced in [Participating in WAI](https://www.w3.org/WAI/about/participating/).
 
 If you would like to be more involved in the Task Force work, please send information about your interests and time availability:
-* For the Cognitive and Learning Disabilities Accessibility Task Force (COGA), e-mail the Task Force Facilitator and W3C Staff Contact: <a href="mailto:lisa.seeman@zoho.com,stevelee@w3.org?cc=wai@w3.org&subject=Cognitive%20Accessibility%20Task%20Force%20Enquiry">Lisa Seeman and Steve Lee</a>.
-* For the Personalization Task Force, e-mail the Task Force Facilitators and W3C Staff Contact: <a href="mailto:lisa.seeman@zoho.com,charlesl@benetech.org,ran@w3.org?cc=wai@w3.org&subject=Personalization%20Task%20Force%20Enquiry">Lisa Seeman, Charles LaPierre, Ruoxi Ran</a>.
+
+* For the Cognitive and Learning Disabilities Accessibility Task Force (COGA), [e-mail the Task Force Facilitator Lisa Seeman and W3C Staff Contact Steve Lee](mailto:lisa.seeman@zoho.com,stevelee@w3.org?cc=wai@w3.org&subject=Cognitive%20Accessibility%20Task%20Force%20Enquiry).
+* For the Personalization Task Force, [e-mail the Task Force Facilitators Lisa Seeman, Charles LaPierre and W3C Staff Contact Ruoxi Ran](mailto:lisa.seeman@zoho.com,charlesl@benetech.org,ran@w3.org?cc=wai@w3.org&subject=Personalization%20Task%20Force%20Enquiry).
