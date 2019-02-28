@@ -63,7 +63,7 @@ Existing and developing standards from the W3C Web Accessibility Initiative (WAI
 * [Guideline 3.2 Predictable](https://www.w3.org/WAI/WCAG21/Understanding/predictable): Make Web pages appear and operate in predictable ways.
 * [Guideline 3.3 Input Assistance](https://www.w3.org/WAI/WCAG21/Understanding/input-assistance): Help users avoid and correct mistakes.
 
-The WCAG Understanding documents and techniques, including advisory techniques, provide additional guidance on cognitive accessibility. These documents are introduced in a section of the WCAG Overview: [What is in the WCAG 2 Documents](What is in the WCAG 2 Documents).
+The WCAG Understanding documents and techniques, including advisory techniques, provide additional guidance on cognitive accessibility. These documents are introduced in a section of the WCAG Overview: [What is in the WCAG 2 Documents](https://www.w3.org/WAI/standards-guidelines/wcag/#whatis2).
 
 ## Additional Support for Cognitive Accessibility
 
