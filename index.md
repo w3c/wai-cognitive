@@ -9,7 +9,7 @@ github:
   path: index.md
 feedbackmail: wai@w3.org
 footer: >
-  <p><strong>Date:</strong> 1 March 2019.</p>
+  <p><strong>Date:</strong> 2 March 2019.</p>
   <p><strong>Editors:</strong> <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>, Steve Lee, <a href="http://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>.</p>
   <p>Developed with input from the Cognitive and Learning Disabilities Accessibility Task Force (<a href="https://www.w3.org/WAI/PF/cognitive-a11y-tf/">COGA</a>). Developed with support of the [Easy Reading Project](http://www.easyreading.eu/), a European Commission (EC) co-funded project, Horizon 2020 Program (780529).<p>
 
@@ -41,7 +41,7 @@ This page introduces:
 
 ## About Accessibility for People with Cognitive and Learning Disabilities
 
-Cognitive and learning disabilities impact how people process information. For example, it can affect people's perception, memory, language, attention, problem solving, and comprehension. Terminology for categories and conditions varies, and includes intellectual disabilities, developmental disabilities; attention deficit hyperactivity disorder (ADHD), autism, dementia, dyslexia, and more.
+Cognitive and learning disabilities impact how people process information. For example, they can affect people's perception, memory, language, attention, problem solving, and comprehension. Terminology for categories and conditions varies, and includes intellectual disabilities, developmental disabilities; attention deficit hyperactivity disorder (ADHD), autism, dementia, dyslexia, and more.
 
 Technology provides opportunities for people to interact with content and to process information in ways that are more usable to them. For example, people can:
 * navigate web content using different strategies
@@ -52,11 +52,11 @@ There are many things that designers and developers can do to:
 *  avoid accessibility barriers that exclude people from using their products
 * optimize the user experience of people with cognitive and learning disabilities
 
-Specific examples of cognitive and learning disabilities and accessibility barriers are in a section of "How People with Disabilities Use the Web: Diverse Abilities and Barriers": [Cognitive and learning](https://www.w3.org/WAI/people-use-web/abilities-barriers/#cognitive).
+Specific examples of cognitive and learning disabilities and of accessibility barriers are in this section of "How People with Disabilities Use the Web: Diverse Abilities and Barriers": **[Cognitive and learning](https://www.w3.org/WAI/people-use-web/abilities-barriers/#cognitive)**.
 
 ## Cognitive Accessibility in W3C Standards
 
-Existing and developing standards from the W3C Web Accessibility Initiative (WAI) address many aspects of cognitive accessibility. For example, Web Content Accessibility Guidelines ([WCAG](https://www.w3.org/WAI/standards-guidelines/wcag/)) includes requirements (called "success criteria") that improve cognitive accessibility under these and other guidelines:
+Existing and developing standards from the W3C Web Accessibility Initiative (WAI) address many aspects of cognitive accessibility. For example, Web Content Accessibility Guidelines ([WCAG](https://www.w3.org/WAI/standards-guidelines/wcag/)) includes requirements (called "success criteria") that improve cognitive accessibility. They are under these and other guidelines:
 
 * [Guideline 1.3 Adaptable](https://www.w3.org/WAI/WCAG21/Understanding/adaptable): Create content that can be presented in different ways (for example simpler layout) without losing information or structure.
 * [Guideline 2.2 Enough Time](https://www.w3.org/WAI/WCAG21/Understanding/enough-time): Provide users enough time to read and use content.
@@ -65,13 +65,13 @@ Existing and developing standards from the W3C Web Accessibility Initiative (WAI
 * [Guideline 3.2 Predictable](https://www.w3.org/WAI/WCAG21/Understanding/predictable): Make Web pages appear and operate in predictable ways.
 * [Guideline 3.3 Input Assistance](https://www.w3.org/WAI/WCAG21/Understanding/input-assistance): Help users avoid and correct mistakes.
 
-The WCAG Understanding documents and techniques, including advisory techniques, provide additional guidance on cognitive accessibility. These documents are introduced in a section of the WCAG Overview: [What is in the WCAG 2 Documents](https://www.w3.org/WAI/standards-guidelines/wcag/#whatis2).
+Additional guidance on cognitive accessibility is include in the WCAG Understanding documents and Techniques, including Advisory Techniques. These documents are introduced in a section of the WCAG Overview: [What is in the WCAG 2 Documents](https://www.w3.org/WAI/standards-guidelines/wcag/#whatis2).
 
 ## Additional Support for Cognitive Accessibility
 
-Some cognitive accessibility user needs are not addressed in existing WAI guidelines.
+Some cognitive accessibility user needs are not addressed in existing W3C standards.
 
-WAI is actively working to provide additional guidance on cognitive accessibility, including:
+W3C is actively working to provide additional guidance on cognitive accessibility, including:
 
 * developing "supplemental guidance" beyond what fits into accessibility standards now
 * developing potential additional requirements for future versions of accessibility standards
