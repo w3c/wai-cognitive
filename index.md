@@ -11,7 +11,7 @@ feedbackmail: wai@w3.org
 footer: >
   <p><strong>Date:</strong> 2 March 2019.</p>
   <p><strong>Editors:</strong> <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>, Steve Lee, <a href="http://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>.</p>
-  <p>Developed with input from the Cognitive and Learning Disabilities Accessibility Task Force (<a href="https://www.w3.org/WAI/PF/cognitive-a11y-tf/">COGA</a>). Developed with support of the [Easy Reading Project](http://www.easyreading.eu/), a European Commission (EC) co-funded project, Horizon 2020 Program (780529).<p>
+  <p>Developed with input from the Cognitive and Learning Disabilities Accessibility Task Force (<a href="https://www.w3.org/WAI/PF/cognitive-a11y-tf/">COGA</a>). Developed with support of the <a href="http://www.easyreading.eu/">Easy Reading Project</a>, a European Commission (EC) co-funded project, Horizon 2020 Program (780529).<p>
 
 ---
 
