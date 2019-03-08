@@ -9,7 +9,7 @@ github:
   path: index.md
 feedbackmail: wai@w3.org
 footer: >
-  <p><strong>Date:</strong> 2 March 2019.</p>
+  <p><strong>Date:</strong> 8 March 2019.</p>
   <p><strong>Editors:</strong> <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>, Steve Lee, <a href="http://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>.</p>
   <p>Developed with input from the Cognitive and Learning Disabilities Accessibility Task Force (<a href="https://www.w3.org/WAI/PF/cognitive-a11y-tf/">COGA</a>). Developed with support of the <a href="http://www.easyreading.eu/">Easy Reading Project</a>, a European Commission (EC) co-funded project, Horizon 2020 Program (780529).<p>
 
@@ -56,7 +56,7 @@ Specific examples of cognitive and learning disabilities and of accessibility ba
 
 ## Cognitive Accessibility in W3C Standards
 
-Existing and developing standards from the W3C Web Accessibility Initiative (WAI) address many aspects of cognitive accessibility. For example, Web Content Accessibility Guidelines ([WCAG](https://www.w3.org/WAI/standards-guidelines/wcag/)) includes requirements (called "success criteria") that improve cognitive accessibility. They are under these and other guidelines:
+Existing and developing standards from the W3C Web Accessibility Initiative (WAI) address many aspects of cognitive accessibility. For example, Web Content Accessibility Guidelines ([WCAG](https://www.w3.org/WAI/standards-guidelines/wcag/)) includes requirements that improve cognitive accessibility. The requirements (called “success criteria”) are in these and other guidelines:
 
 * [Guideline 1.3 Adaptable](https://www.w3.org/WAI/WCAG21/Understanding/adaptable): Create content that can be presented in different ways (for example simpler layout) without losing information or structure.
 * [Guideline 2.2 Enough Time](https://www.w3.org/WAI/WCAG21/Understanding/enough-time): Provide users enough time to read and use content.
