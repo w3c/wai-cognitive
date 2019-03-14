@@ -5,7 +5,7 @@ permalink: /cognitive/
 ref: /cognitive/
 lang: en
 github:
-  repository: wai-cognitive
+  repository: w3c/wai-cognitive
   path: index.md
 feedbackmail: wai@w3.org
 footer: >
