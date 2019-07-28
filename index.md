@@ -82,7 +82,7 @@ W3C is actively working to provide additional guidance on cognitive accessibilit
 Current work on cognitive accessibility at W3C WAI is mostly focused in the following Task Forces under the Accessibility Guidelines Working Group ([AG WG](https://www.w3.org/WAI/GL/)) and the Accessible Platform Architectures ([APA](https://www.w3.org/WAI/APA/)) Working Group:
 
 * [Cognitive and Learning Disabilities Accessibility Task Force (COGA)](https://www.w3.org/WAI/PF/cognitive-a11y-tf/) &mdash; Resources in development are listed in the [wiki main page](https://www.w3.org/WAI/PF/cognitive-a11y-tf/wiki/Main_Page).
-* [Personalization Task Force](https://www.w3.org/WAI/APA/task-forces/personalization/) &mdash; Resources in development are introduced in the [Personalization Overview]( https://deploy-preview-2--wai-personalization-standards.netlify.com/standards-guidelines/personalization/)<!-- @@ update link -->.
+* [Personalization Task Force](https://www.w3.org/WAI/APA/task-forces/personalization/) &mdash; Resources in development are introduced in the [Personalization Overview](https://www.w3.org/WAI/personalization/).
 
 ### Get Updates, Get Involved
 
