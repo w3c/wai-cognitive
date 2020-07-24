@@ -77,14 +77,14 @@ W3C is actively working to provide additional guidance on cognitive accessibilit
 * developing potential additional requirements for future versions of accessibility standards
 * developing standards for personalization, which is a key aspect of cognitive accessibility
 
-_(Links are in the next section.)_
+_(Links in next section.)_
 
 ## Cognitive Accessibility Work at W3C
 
 Current work on cognitive accessibility at W3C WAI is mostly focused in the following Task Forces under the Accessibility Guidelines Working Group ([AG WG](https://www.w3.org/WAI/GL/)) and the Accessible Platform Architectures ([APA](https://www.w3.org/WAI/APA/)) Working Group:
 
-* [Cognitive and Learning Disabilities Accessibility Task Force (COGA)](https://www.w3.org/WAI/PF/cognitive-a11y-tf/) &mdash; **Resources in development are listed in the [COGA wiki main page](https://www.w3.org/WAI/PF/cognitive-a11y-tf/wiki/Main_Page)**.
-* [Personalization Task Force](https://www.w3.org/WAI/APA/task-forces/personalization/) &mdash; **Resources in development are introduced in the [Personalization Overview](https://www.w3.org/WAI/personalization/)**.
+* [Cognitive and Learning Disabilities Accessibility Task Force (COGA)](https://www.w3.org/WAI/PF/cognitive-a11y-tf/)<br>&mdash; **Resources in development are listed in the [COGA wiki main page](https://www.w3.org/WAI/PF/cognitive-a11y-tf/wiki/Main_Page)**.
+* [Personalization Task Force](https://www.w3.org/WAI/APA/task-forces/personalization/)<br>&mdash; **Resources in development are introduced in the [Personalization Overview](https://www.w3.org/WAI/personalization/)**.
 
 ### Get Updates, Get Involved
 
