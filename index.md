@@ -77,6 +77,20 @@ W3C is actively working to provide additional guidance on cognitive accessibilit
 * developing potential additional requirements for future versions of accessibility standards
 * developing standards for personalization, which is a key aspect of cognitive accessibility
 
+### Supplemental Guidance
+
+The document [Making Content Usable for People with Cognitive and Learning Disabilities](https://www.w3.org/TR/coga-usable/) is for people who make Web content (Web pages) and Web applications. It gives advice and on how to make content usable for people with cognitive and learning disabilities. It has content about:
+
+- people with learning and cognitive disabilities,
+- aims and objectives for usable content,
+- design patterns (ways) to make content usable,
+- including users in design and testing activities, and
+- personas (examples) and user needs.
+ 
+ ### Potential Additional Requirements in Standards
+ 
+WCAG 2.2 is currently being develeped and includes several potential “success criteria” with an emphasis on cognitive accessibility. These may become part of the final publication, depending on the outcome of the public Wide Review process that W3C standards undergo.
+
 ## Cognitive Accessibility Work at W3C
 
 Current work on cognitive accessibility at W3C WAI is mostly focused in the following Task Forces under the Accessibility Guidelines Working Group ([AG WG](https://www.w3.org/WAI/GL/)) and the Accessible Platform Architectures ([APA](https://www.w3.org/WAI/APA/)) Working Group:
