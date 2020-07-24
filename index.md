@@ -86,7 +86,7 @@ Current work on cognitive accessibility at W3C WAI is mostly focused in the foll
 * [Cognitive and Learning Disabilities Accessibility Task Force (COGA)](https://www.w3.org/WAI/PF/cognitive-a11y-tf/)<br>&mdash; **Resources in development are listed in the [COGA wiki main page](https://www.w3.org/WAI/PF/cognitive-a11y-tf/wiki/Main_Page)**.
 * [Personalization Task Force](https://www.w3.org/WAI/APA/task-forces/personalization/)<br>&mdash; **Resources in development are introduced in the [Personalization Overview](https://www.w3.org/WAI/personalization/)**.
 
-### Get Updates, Get Involved
+## Get Updates, Get Involved
 
 To get notices of opportunities for review and comment on WAI documents, see [Get WAI News](https://www.w3.org/WAI/news/subscribe/).
 
