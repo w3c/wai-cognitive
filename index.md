@@ -77,7 +77,7 @@ W3C is actively working to provide additional guidance on cognitive accessibilit
 * developing potential additional requirements for future versions of accessibility standards
 * developing standards for personalization, which is a key aspect of cognitive accessibility
 
-_(Links to current are in the next section.)_
+_(Links are in the next section.)_
 
 ## Cognitive Accessibility Work at W3C
 
