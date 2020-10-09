@@ -9,7 +9,7 @@ github:
   path: index.md
 feedbackmail: wai@w3.org
 footer: >
-  <p><strong>Date:</strong> 27 July 2020.</p>
+  <p><strong>Date:</strong> 7 October 2020.</p>
   <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>. Contributors: Steve Lee and <a href="http://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>.</p>
   <p>Developed with input from the Cognitive and Learning Disabilities Accessibility Task Force (<a href="https://www.w3.org/WAI/PF/cognitive-a11y-tf/">COGA</a>). Developed with support of the <a href="http://www.easyreading.eu/">Easy Reading Project</a>, a European Commission (EC) co-funded project, Horizon 2020 Program (780529).<p>
 
@@ -55,7 +55,7 @@ There are many things that designers and developers can do to:
 *  avoid accessibility barriers that exclude people from using their products
 * optimize the user experience of people with cognitive and learning disabilities
 
-Specific examples of cognitive and learning disabilities and of accessibility barriers are in this section of "How People with Disabilities Use the Web: Diverse Abilities and Barriers": **[Cognitive and learning](https://www.w3.org/WAI/people-use-web/abilities-barriers/#cognitive)**.
+Specific examples of cognitive and learning disabilities and examples of accessibility barriers are in this section of "How People with Disabilities Use the Web: Diverse Abilities and Barriers": **[Cognitive and learning](https://www.w3.org/WAI/people-use-web/abilities-barriers/#cognitive)**.
 
 ## Cognitive Accessibility in W3C Standards
 
@@ -86,8 +86,8 @@ W3C is actively working to provide additional guidance on cognitive accessibilit
 
 Current work on cognitive accessibility at W3C WAI is mostly focused in the following Task Forces under the Accessibility Guidelines Working Group ([AG WG](https://www.w3.org/WAI/GL/)) and the Accessible Platform Architectures ([APA](https://www.w3.org/WAI/APA/)) Working Group:
 
-* [Cognitive and Learning Disabilities Accessibility Task Force (COGA)](https://www.w3.org/WAI/PF/cognitive-a11y-tf/)&mdash; Resources in development are listed in the [COGA wiki main page](https://www.w3.org/WAI/PF/cognitive-a11y-tf/wiki/Main_Page).
-* [Personalization Task Force](https://www.w3.org/WAI/APA/task-forces/personalization/)&mdash; Resources in development are introduced in the [Personalization Overview](https://www.w3.org/WAI/personalization/).
+* [Cognitive and Learning Disabilities Accessibility Task Force (COGA)](https://www.w3.org/WAI/PF/cognitive-a11y-tf/) &mdash; Resources in development are listed in the [COGA wiki main page](https://www.w3.org/WAI/PF/cognitive-a11y-tf/wiki/Main_Page).
+* [Personalization Task Force](https://www.w3.org/WAI/APA/task-forces/personalization/) &mdash; Resources in development are introduced in the **[Personalization Overview](https://www.w3.org/WAI/personalization/)**.
 
 ## Get Updates, Get Involved
 
