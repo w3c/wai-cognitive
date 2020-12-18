@@ -1,3 +1,1 @@
-# wai-resource-template
-
-Preview: https://w3c.github.io/wai-cognitive/cognitive/
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e5c211fe-5865-4023-8acd-68fe97992285/deploy-status)](https://app.netlify.com/sites/wai-cognitive/deploys)
