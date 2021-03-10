@@ -101,3 +101,5 @@ If you would like to be more involved in the Task Force work, please send inform
 
 * For the Cognitive and Learning Disabilities Accessibility Task Force (COGA), [e-mail Task Force Facilitator Lisa Seeman and W3C Staff (wai@w3.org)](mailto:lisa.seeman@zoho.com,stevelee@w3.org?cc=wai@w3.org&subject=Cognitive%20Accessibility%20Task%20Force%20Enquiry).
 * For the Personalization Task Force, [e-mail Task Force Facilitators Lisa Seeman and Charles LaPierre, and W3C Staff (wai@w3.org)](mailto:lisa.seeman@zoho.com,charlesl@benetech.org,ran@w3.org?cc=wai@w3.org&subject=Personalization%20Task%20Force%20Enquiry).
+
+...
