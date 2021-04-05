@@ -5,7 +5,7 @@ permalink: /cognitive/
 lang: en
 github:
   repository: w3c/wai-cognitive
-  path: index.md
+  path: content/index.md
 last_updated: 2020-10-07  
   
 ref: /cognitive/   # translators do not change 
