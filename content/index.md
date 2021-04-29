@@ -86,13 +86,13 @@ W3C is actively working to provide additional guidance on cognitive accessibilit
 
 ### Supplemental Guidance: Content Usable
 
-**[Making Content Usable for People with Cognitive and Learning Disabilities](https://www.w3.org/TR/coga-usable/)** (“Content Usable”) is a Working Group Note that helps you increase accessibility for people with cognitive and learning disabilities. It includes information about:
+**[Making Content Usable for People with Cognitive and Learning Disabilities](https://www.w3.org/TR/coga-usable/)** (“Content Usable”) is a that helps you increase accessibility for people with cognitive and learning disabilities. It includes information about:
 * aims and objectives for usable content
 * design patterns (ways) to make content usable
 * including users in design and testing activities
 * personas (user stories) and user needs
 
-The Content Usable document provides “supplemental guidance” beyond the requirements of the Web Content Accessibility Guidelines (WCAG) 2. Following the guidance in this Note _**is not required for conformance to WCAG 2**_.
+The Content Usable document is Working Group Note (not a W3C standard) that provides “supplemental guidance” beyond the requirements of the Web Content Accessibility Guidelines (WCAG) 2. Following the guidance in this Note **is not required for conformance to WCAG 2**.
 
 ## Cognitive Accessibility Work at W3C
 
