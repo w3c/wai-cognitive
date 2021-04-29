@@ -6,12 +6,12 @@ lang: en
 github:
   repository: w3c/wai-cognitive
   path: content/index.md
-last_updated: 2021-04-15  
+last_updated: 2021-04-29  
   
 ref: /cognitive/   # translators do not change 
 feedbackmail: wai@w3.org
 footer: >
-  <p><strong>Date:</strong> @@ April 2021.</p>
+  <p><strong>Date:</strong> 29 April 2021.</p>
   <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>. Contributors: Steve Lee and <a href="http://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>.</p>
   <p>Developed with input from the Cognitive and Learning Disabilities Accessibility Task Force (<a href="https://www.w3.org/WAI/PF/cognitive-a11y-tf/">COGA</a>). Developed with support of the <a href="http://www.easyreading.eu/">Easy Reading Project</a>, a European Commission (EC) co-funded project, Horizon 2020 Program (780529).<p>
 
@@ -24,10 +24,11 @@ footer: >
 This page introduces:
 * accessibility for people with cognitive and learning disabilities ("cognitive accessibility")
 * existing standards from the World Wide Web Consortium (W3C) Web Accessibility Initiative (WAI)
+* additional guidance beyond the standards
 * on-going work on cognitive accessibility support at W3C WAI
 
-Quick link to informative Note:
-* [Making Content Usable for People with Cognitive and Learning Disabilities](https://www.w3.org/TR/coga-usable/)
+Quick link to informative guidance:
+* [Making Content Usable for People with Cognitive and Learning Disabilities – Working Group Note](https://www.w3.org/TR/coga-usable/) ("Content Usable")
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -79,18 +80,19 @@ Some cognitive accessibility user needs are not addressed in existing W3C standa
 
 W3C is actively working to provide additional guidance on cognitive accessibility, including:
 
-* developing "supplemental guidance" beyond what fits into accessibility standards now
-* developing additional requirements to be included in WCAG 2.2 and addressed by WCAG 3.0
+* updating "supplemental guidance" beyond what fits into accessibility standards now
+* developing additional requirements to be included in future versions of WCAG
 * developing standards for [personalization](https://www.w3.org/WAI/personalization/), which is a key aspect of cognitive accessibility
 
-Supplemental guidance is provided in the Working Group Note: **[Making Content Usable for People with Cognitive and Learning Disabilities](https://www.w3.org/TR/coga-usable/).** It includes information about:
-* people with learning and cognitive disabilities
+### Supplemental Guidance: Content Usable
+
+**[Making Content Usable for People with Cognitive and Learning Disabilities](https://www.w3.org/TR/coga-usable/)** (“Content Usable”) is a Working Group Note that helps you increase accessibility for people with cognitive and learning disabilities. It includes information about:
 * aims and objectives for usable content
 * design patterns (ways) to make content usable
 * including users in design and testing activities
 * personas (user stories) and user needs
 
-This document is "informative" &mdash; that means it is _not_ required for conformance to WCAG.
+The Content Usable document provides “supplemental guidance” beyond the requirements of the Web Content Accessibility Guidelines (WCAG) 2. Following the guidance in this Note _**is not required for conformance to WCAG 2**_.
 
 ## Cognitive Accessibility Work at W3C
 
