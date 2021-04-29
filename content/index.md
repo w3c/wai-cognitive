@@ -11,7 +11,7 @@ last_updated: 2021-04-29
 ref: /cognitive/   # translators do not change 
 feedbackmail: wai@w3.org
 footer: >
-  <p><strong>Date:</strong> 29 April 2021.</p>
+  <p><strong>Date:</strong> Updated 29 April 2021. First published March 2019.</p>
   <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>. Contributors: Steve Lee and <a href="http://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>.</p>
   <p>Developed with input from the Cognitive and Learning Disabilities Accessibility Task Force (<a href="https://www.w3.org/WAI/PF/cognitive-a11y-tf/">COGA</a>). Developed with support of the <a href="http://www.easyreading.eu/">Easy Reading Project</a>, a European Commission (EC) co-funded project, Horizon 2020 Program (780529).<p>
 
@@ -93,6 +93,10 @@ W3C is actively working to provide additional guidance on cognitive accessibilit
 * personas (user stories) and user needs
 
 The Content Usable document is an informative Working Group Note (not a W3C standard). It provides “supplemental guidance” beyond the requirements of WCAG 2. **It is not required for conformance to WCAG**.
+
+WAI is currently working on integrating the Objectives and Patterns from Content Usable in a new section of the WAI website. That will be easier for some people to use.
+
+We welcome comments for the next version of Content Usable. To comment, please open a new issue in the [COGA GitHub repository](https://github.com/w3c/coga/issues/new) or send comments in e-mail to: public-coga-comments@w3.org
 
 ## Cognitive Accessibility Work at W3C
 
