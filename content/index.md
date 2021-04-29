@@ -24,7 +24,7 @@ footer: >
 This page introduces:
 * accessibility for people with cognitive and learning disabilities ("cognitive accessibility")
 * existing standards from the World Wide Web Consortium (W3C) Web Accessibility Initiative (WAI)
-* additional guidance beyond the standards
+* informative guidance beyond the standards
 * on-going work on cognitive accessibility support at W3C WAI
 
 Quick link to informative guidance:
@@ -92,7 +92,7 @@ W3C is actively working to provide additional guidance on cognitive accessibilit
 * including users in design and testing activities
 * personas (user stories) and user needs
 
-The Content Usable document is Working Group Note (not a W3C standard) that provides “supplemental guidance” beyond the requirements of the Web Content Accessibility Guidelines (WCAG) 2. Following the guidance in this Note **is not required for conformance to WCAG 2**.
+The Content Usable document is an informative Working Group Note (not a W3C standard) that provides “supplemental guidance” beyond the requirements of the Web Content Accessibility Guidelines (WCAG) 2. Following the guidance in this Note **is not required for conformance to WCAG 2**.
 
 ## Cognitive Accessibility Work at W3C
 
