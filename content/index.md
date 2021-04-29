@@ -58,7 +58,7 @@ There are many things that designers and developers can do to:
 * avoid accessibility barriers that exclude people from using their products
 * optimize the user experience of people with cognitive and learning disabilities
 
-Specific examples of cognitive and learning disabilities and examples of accessibility barriers are in this section of "How People with Disabilities Use the Web: Diverse Abilities and Barriers": **[Cognitive and learning](https://www.w3.org/WAI/people-use-web/abilities-barriers/#cognitive)**.
+Specific examples of cognitive and learning disabilities and examples of accessibility barriers are in this section of "How People with Disabilities Use the Web: Diverse Abilities and Barriers": [Cognitive and learning](https://www.w3.org/WAI/people-use-web/abilities-barriers/#cognitive).
 
 ## Cognitive Accessibility in W3C Standards
 
@@ -86,7 +86,7 @@ W3C is actively working to provide additional guidance on cognitive accessibilit
 
 ### Supplemental Guidance: Content Usable
 
-**[Making Content Usable for People with Cognitive and Learning Disabilities](https://www.w3.org/TR/coga-usable/)** (“Content Usable”) helps you increase accessibility for people with cognitive and learning disabilities. It includes information about:
+**[Making Content Usable for People with Cognitive and Learning Disabilities](https://www.w3.org/TR/coga-usable/)** (“Content Usable”) helps you increase accessibility for people with cognitive and learning disabilities. It includes:
 * aims and objectives for usable content
 * design patterns (ways) to make content usable
 * including users in design and testing activities
