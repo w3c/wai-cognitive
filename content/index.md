@@ -6,12 +6,12 @@ lang: en
 github:
   repository: w3c/wai-cognitive
   path: content/index.md
-last_updated: 2021-04-29  
+last_updated: 2022-03-22  
   
 ref: /cognitive/   # translators do not change 
 feedbackmail: wai@w3.org
 footer: >
-  <p><strong>Date:</strong> Updated 29 April 2021. First published March 2019.</p>
+  <p><strong>Date:</strong> Updated 22 March 2022. First published March 2019.</p>
   <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>. Contributors: Steve Lee and <a href="http://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>.</p>
   <p>Developed with input from the Cognitive and Learning Disabilities Accessibility Task Force (<a href="https://www.w3.org/WAI/PF/cognitive-a11y-tf/">COGA</a>). Developed with support of the <a href="http://www.easyreading.eu/">Easy Reading Project</a>, a European Commission (EC) co-funded project, Horizon 2020 Program (780529).<p>
 
@@ -28,7 +28,8 @@ This page introduces:
 * on-going work on cognitive accessibility support at W3C WAI
 
 Quick link to informative guidance:
-* [Making Content Usable for People with Cognitive and Learning Disabilities](https://www.w3.org/TR/coga-usable/) ("Content Usable") Working Group Note
+* **[Cognitive Accessibility Guidance](/WCAG2/supplemental/#cognitiveaccessibilityguidance)** &mdash; short design patterns,  explained briefly in [About Supplemental Guidance](/WCAG2/supplemental/about/)
+* [Making Content Usable for People with Cognitive and Learning Disabilities](https://www.w3.org/TR/coga-usable/) ("Content Usable") Working Group Note &mdash; long document that covers many different aspects for many different roles
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -84,17 +85,22 @@ W3C is actively working to provide additional guidance on cognitive accessibilit
 * developing additional requirements to be included in future versions of WCAG
 * developing standards for [personalization](https://www.w3.org/WAI/personalization/), which is a key aspect of cognitive accessibility
 
-### Supplemental Guidance: Content Usable
+### Supplemental Guidance
 
-**[Making Content Usable for People with Cognitive and Learning Disabilities](https://www.w3.org/TR/coga-usable/)** (“Content Usable”) helps you increase accessibility for people with cognitive and learning disabilities. It includes:
+Supplemental guidance provides additional ways to improve accessibility beyond what is required by WCAG 2. Following the guidance is not required to meet WCAG.
+
+We encourage you to follow the guidance to meet more user needs. The accessibility issues addressed in this guidance are essential for people with certain disabilities to be able to use digital technology.
+
+**[Cognitive Accessibility Guidance](/WCAG2/supplemental/#cognitiveaccessibilityguidance)** in <cite>Supplemental Guidance to WCAG 2</cite> provides brief "Objectives" and "Design Patterns" that include:
+* what to do to improve accessibility
+* how it helps when applied
+* examples
+
+[Making Content Usable for People with Cognitive and Learning Disabilities](https://www.w3.org/TR/coga-usable/) (“Content Usable”) is a much long document. It is an informative Working Group Note (not a W3C standard). It includes:
 * aims and objectives for usable content
-* design patterns (ways) to make content usable
+* design patterns (ways) to make content usable _(these are the same as in [Cognitive Accessibility Guidance](/WCAG2/supplemental/#cognitiveaccessibilityguidance) linked above)_
 * including users in design and testing activities
 * personas (user stories) and user needs
-
-The Content Usable document is an informative Working Group Note (not a W3C standard). It provides “supplemental guidance” beyond the requirements of WCAG 2. **It is not required for conformance to WCAG**.
-
-WAI is currently working on integrating the Objectives and Patterns from Content Usable in a new section of the WAI website. That will be easier for some people to use.
 
 We welcome comments for the next version of Content Usable. To comment, please open a new issue in the [COGA GitHub repository](https://github.com/w3c/coga/issues/new) or send comments in e-mail to: public-coga-comments@w3.org
 
