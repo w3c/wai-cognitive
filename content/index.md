@@ -27,7 +27,7 @@ This page introduces:
 * informative guidance beyond the standards
 * on-going work on cognitive accessibility support at W3C WAI
 
-Quick link to informative guidance:
+Quick links to informative guidance:
 * **[Cognitive Accessibility Guidance](/WCAG2/supplemental/#cognitiveaccessibilityguidance)** &mdash; short design patterns,  explained briefly in [About Supplemental Guidance](/WCAG2/supplemental/about/)
 * [Making Content Usable for People with Cognitive and Learning Disabilities](https://www.w3.org/TR/coga-usable/) ("Content Usable") Working Group Note &mdash; long document that covers many different aspects for many different roles
 
@@ -73,7 +73,7 @@ Existing and developing standards from the W3C Web Accessibility Initiative (WAI
 * [Guideline 3.2 Predictable](https://www.w3.org/WAI/WCAG21/Understanding/predictable): Make Web pages appear and operate in predictable ways.
 * [Guideline 3.3 Input Assistance](https://www.w3.org/WAI/WCAG21/Understanding/input-assistance): Help users avoid and correct mistakes.
 
-Additional guidance on cognitive accessibility is include in the WCAG Understanding documents and Techniques, including Advisory Techniques. These documents are introduced in a section of the WCAG Overview: [What is in the WCAG 2 Documents](https://www.w3.org/WAI/standards-guidelines/wcag/#whatis2).
+Additional guidance on cognitive accessibility is included in the WCAG Understanding documents and Techniques, including Advisory Techniques. These documents are introduced in a section of the WCAG Overview: [What is in the WCAG 2 Documents](https://www.w3.org/WAI/standards-guidelines/wcag/#whatis2).
 
 ## Additional Support for Cognitive Accessibility
 
@@ -96,7 +96,7 @@ We encourage you to follow the guidance to meet more user needs. The accessibili
 * how it helps when applied
 * examples
 
-[Making Content Usable for People with Cognitive and Learning Disabilities](https://www.w3.org/TR/coga-usable/) (“Content Usable”) is a much long document. It is an informative Working Group Note (not a W3C standard). It includes:
+[Making Content Usable for People with Cognitive and Learning Disabilities](https://www.w3.org/TR/coga-usable/) (“Content Usable”) is a much longer document. It is an informative Working Group Note (not a W3C standard). It includes:
 * aims and objectives for usable content
 * design patterns (ways) to make content usable _(these are the same as in [Cognitive Accessibility Guidance](/WCAG2/supplemental/#cognitiveaccessibilityguidance) linked above)_
 * including users in design and testing activities
