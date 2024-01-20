@@ -1,3 +1,4 @@
+![Captura de pantalla_20240118-110958](https://github.com/w3c/wai-cognitive/assets/156836105/d8b4562c-ee43-4a79-b458-5a346ff64e5f)
 ---
 title: "Cognitive Accessibility at W3C"
 parent: "/standards-guidelines/"
