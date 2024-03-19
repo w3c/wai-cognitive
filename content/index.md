@@ -65,13 +65,13 @@ Specific examples of cognitive and learning disabilities and examples of accessi
 
 Existing and developing standards from the W3C Web Accessibility Initiative (WAI) address many aspects of cognitive accessibility. For example, Web Content Accessibility Guidelines ([WCAG](https://www.w3.org/WAI/standards-guidelines/wcag/)) includes requirements that address cognitive accessibility. The requirements (called “success criteria”) are in these and other guidelines:
 
-* [Guideline 1.3 Adaptable](https://www.w3.org/WAI/WCAG21/Understanding/adaptable): Create content that can be presented in different ways (for example simpler layout) without losing information or structure.
-* [Guideline 1.4 Distinguishable](https://www.w3.org/WAI/WCAG21/Understanding/distinguishable): Make it easier for users to see and hear content including separating foreground from background.
-* [Guideline 2.2 Enough Time](https://www.w3.org/WAI/WCAG21/Understanding/enough-time): Provide users enough time to read and use content.
-* [Guideline 2.4 Navigable](https://www.w3.org/WAI/WCAG21/Understanding/navigable): Provide ways to help users navigate, find content, and determine where they are.
-* [Guideline 3.1 Readable](https://www.w3.org/WAI/WCAG21/Understanding/readable): Make text content readable and understandable.
-* [Guideline 3.2 Predictable](https://www.w3.org/WAI/WCAG21/Understanding/predictable): Make Web pages appear and operate in predictable ways.
-* [Guideline 3.3 Input Assistance](https://www.w3.org/WAI/WCAG21/Understanding/input-assistance): Help users avoid and correct mistakes.
+* [Guideline 1.3 Adaptable](https://www.w3.org/WAI/WCAG22/Understanding/adaptable): Create content that can be presented in different ways (for example simpler layout) without losing information or structure.
+* [Guideline 1.4 Distinguishable](https://www.w3.org/WAI/WCAG22/Understanding/distinguishable): Make it easier for users to see and hear content including separating foreground from background.
+* [Guideline 2.2 Enough Time](https://www.w3.org/WAI/WCAG22/Understanding/enough-time): Provide users enough time to read and use content.
+* [Guideline 2.4 Navigable](https://www.w3.org/WAI/WCAG22/Understanding/navigable): Provide ways to help users navigate, find content, and determine where they are.
+* [Guideline 3.1 Readable](https://www.w3.org/WAI/WCAG22/Understanding/readable): Make text content readable and understandable.
+* [Guideline 3.2 Predictable](https://www.w3.org/WAI/WCAG22/Understanding/predictable): Make Web pages appear and operate in predictable ways.
+* [Guideline 3.3 Input Assistance](https://www.w3.org/WAI/WCAG22/Understanding/input-assistance): Help users avoid and correct mistakes.
 
 Additional guidance on cognitive accessibility is included in the WCAG Understanding documents and Techniques, including Advisory Techniques. These documents are introduced in a section of the WCAG Overview: [What is in the WCAG 2 Documents](https://www.w3.org/WAI/standards-guidelines/wcag/#whatis2).
 
