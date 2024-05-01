@@ -1,1 +1,4 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/e5c211fe-5865-4023-8acd-68fe97992285/deploy-status)](https://app.netlify.com/sites/wai-cognitive/deploys)
+> [!IMPORTANT]
+> This repository has been archived 2 May 2024.
+>
+> [Cognitive Accessibility at W3C](https://www.w3.org/WAI/cognitive/) is now edited in the [wai-website](https://github.com/w3c/wai-website) repository.
